@@ -14,4 +14,6 @@ Pixel Art: http://www.pixelwho.com
 
 Game developed as a gift. 
 
+The APK can be found on https://www.dropbox.com/s/9mvwe3u7liz1hug/FreeJogoT9.apk?dl=0
+
 ==========
